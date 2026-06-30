@@ -1,5 +1,9 @@
 # Customer_behaviour_analysis
 Customer Shopping Behavior Analysis & Interactive Dashboard
+
+# Project: Customer Shopping Behavior Analysis & Interactive Power BI Dashboard
+
+
 # Project Overview
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from raw data processing in Python to building an interactive business intelligence dashboard in Power BI. The project focuses on analyzing customer shopping behavior to uncover purchasing patterns, customer demographics, spending habits, and business insights.
@@ -13,48 +17,48 @@ Dataset Name: Customer Shopping Behavior Dataset
 The dataset contains customer-level shopping information, including demographic details, purchasing behavior, payment preferences, product categories, and customer feedback.
 
 Features Included
-Customer ID
-Age
-Gender
-Item Purchased
-Category
-Purchase Amount
-Location
-Size
-Color
-Season
-Review Rating
-Subscription Status
-Shipping Type
-Discount Applied
-Promo Code Used
-Previous Purchases
-Payment Method
-Purchase Frequency
+ Customer ID,
+ Age,
+ Gender,
+ Item Purchased,
+ Category,
+ Purchase Amount,
+ Location,
+ Size,
+ Color,
+ Season,
+ Review Rating,
+ Subscription Status,
+ Shipping Type,
+ Discount Applied,
+ Promo Code Used,
+ Previous Purchases,
+ Payment Method,
+ Purchase Frequency
 
 # Project Objectives
 
-Perform Exploratory Data Analysis (EDA)
-Clean and preprocess raw customer data
-Store cleaned data in a MySQL database
-Execute SQL queries to generate business insights
-Build an interactive Power BI dashboard
-Present key performance indicators (KPIs) and customer behavior visually
+Perform Exploratory Data Analysis (EDA),
+ Clean and preprocess raw customer data,
+ Store cleaned data in a MySQL database,
+ Execute SQL queries to generate business insights,
+ Build an interactive Power BI dashboard,
+ Present key performance indicators (KPIs) and customer behavior visually
 
 # Tools & Technologies Used
 
-Tool	Purpose
-Python	Data Loading, Cleaning & Analysis
-Pandas	Data Manipulation
-NumPy	Numerical Operations
-Matplotlib	Data Visualization
-Seaborn	Exploratory Data Analysis
-MySQL Server	Database Storage
-MySQL Workbench	SQL Query Execution
-SQLAlchemy	Python-MySQL Connection
-PyMySQL	Database Connectivity
-Power BI	Dashboard & Visualization
-Jupyter Notebook	Development Environment
+Tool	Purpose,
+ Python	Data Loading, Cleaning & Analysis,
+ Pandas	Data Manipulation,
+ NumPy	Numerical Operations,
+ Matplotlib	Data Visualization,
+ Seaborn	Exploratory Data Analysis,
+ MySQL Server	Database Storage,
+ MySQL Workbench	SQL Query Execution,
+ SQLAlchemy	Python-MySQL Connection,
+ PyMySQL	Database Connectivity,
+ Power BI	Dashboard & Visualization,
+ Jupyter Notebook	Development Environment
 
 # Project Workflow
 
@@ -131,26 +135,26 @@ Top-performing product categories
 
 An interactive dashboard was created to visualize business insights.
 
-Dashboard KPIs
-Total Customers
-Average Purchase Amount
-Average Review Rating
-Visualizations
-Revenue by Product Category
-Revenue by Gender
-Revenue by Age Group
-Subscription Status Distribution
-Payment Method Distribution
-Seasonal Purchase Trends
-Discount Usage Analysis
-Purchase Frequency Analysis
-Dashboard Features
-Interactive Filters
-Dynamic Visualizations
-KPI Cards
-Drill-down Capability
-Professional Layout
-Business-friendly Design
+Dashboard KPIs,
+ Total Customers,
+ Average Purchase Amount,
+ Average Review Rating,
+ Visualizations,
+ Revenue by Product Category,
+ Revenue by Gender,
+ Revenue by Age Group,
+ Subscription Status Distribution,
+ Payment Method Distribution,
+ Seasonal Purchase Trends,
+ Discount Usage Analysis,
+ Purchase Frequency Analysis,
+ Dashboard Features,
+ Interactive Filters,
+ Dynamic Visualizations,
+ KPI Cards,
+ Drill-down Capability,
+ Professional Layout,
+ Business-friendly Design
 
 # Project Structure
 
@@ -190,23 +194,21 @@ Highlighted high-performing product categories based on revenue.
 
 Data Cleaning, 
  Data Preprocessing,
-Exploratory Data Analysis (EDA)
-SQL Query Writing
-Database Management (MySQL)
-Python Programming
-Data Visualization
-Power BI Dashboard Development
-Business Intelligence
-Data Storytelling
-KPI Design
-Dashboard Design
-
-# Project: Customer Shopping Behavior Analysis & Interactive Power BI Dashboard
+ Exploratory Data Analysis (EDA),
+ SQL Query Writing,
+ Database Management (MySQL),
+ Python Programming,
+ Data Visualization,
+ Power BI Dashboard Development,
+ Business Intelligence,
+ Data Storytelling,
+ KPI Design,
+ Dashboard Design
 
 # ⭐ Project Highlights
-End-to-end Data Analytics project
-Python-based data preprocessing and EDA
-MySQL database integration
-SQL-driven business analysis
-Interactive Power BI dashboard
-Recruitment-ready project showcasing practical analytics and business intelligence skills
+1.End-to-end Data Analytics project
+2.Python-based data preprocessing and EDA
+3.MySQL database integration
+4.SQL-driven business analysis
+5.Interactive Power BI dashboard
+6.Recruitment-ready project showcasing practical analytics and business intelligence skills
