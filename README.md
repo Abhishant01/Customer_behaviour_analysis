@@ -47,7 +47,7 @@ Perform Exploratory Data Analysis (EDA),
 
 # Tools & Technologies Used
 
-Tool	Purpose,
+Tool	Purpose :
  Python	Data Loading, Cleaning & Analysis,
  Pandas	Data Manipulation,
  NumPy	Numerical Operations,
@@ -131,7 +131,7 @@ Purchase frequency analysis
 Seasonal purchasing trends
 Top-performing product categories
 
-📈 Power BI Dashboard
+# 📈 Power BI Dashboard
 
 An interactive dashboard was created to visualize business insights.
 
@@ -181,14 +181,14 @@ Customer-Shopping-Behavior-Analysis/
 
 # Key Business Insights
 
-Identified customer spending patterns across different product categories.
-Compared purchase behavior by gender and age groups.
-Evaluated average customer spending and review ratings.
-Analyzed subscription adoption among customers.
-Examined the impact of discounts on purchasing behavior.
-Identified preferred payment methods.
-Compared seasonal sales trends.
-Highlighted high-performing product categories based on revenue.
+1. Identified customer spending patterns across different product categories.
+2. Compared purchase behavior by gender and age groups.
+3. Evaluated average customer spending and review ratings.
+4. Analyzed subscription adoption among customers.
+5. Examined the impact of discounts on purchasing behavior.
+6. Identified preferred payment methods.
+7. Compared seasonal sales trends.
+8. Highlighted high-performing product categories based on revenue.
 
 # Skills Demonstrated
 
@@ -206,9 +206,9 @@ Data Cleaning,
  Dashboard Design
 
 # ⭐ Project Highlights
-1.End-to-end Data Analytics project
-2.Python-based data preprocessing and EDA
-3.MySQL database integration
-4.SQL-driven business analysis
-5.Interactive Power BI dashboard
-6.Recruitment-ready project showcasing practical analytics and business intelligence skills
+1. End-to-end Data Analytics project
+2. Python-based data preprocessing and EDA
+3. MySQL database integration
+4. SQL-driven business analysis
+5. Interactive Power BI dashboard
+6. Recruitment-ready project showcasing practical analytics and business intelligence skills
