@@ -34,7 +34,7 @@ Features Included
  Promo Code Used,
  Previous Purchases,
  Payment Method,
- Purchase Frequency
+ Purchase Frequency.
 
 # Project Objectives
 
@@ -43,7 +43,7 @@ Perform Exploratory Data Analysis (EDA),
  Store cleaned data in a MySQL database,
  Execute SQL queries to generate business insights,
  Build an interactive Power BI dashboard,
- Present key performance indicators (KPIs) and customer behavior visually
+ Present key performance indicators (KPIs) and customer behavior visually.
 
 # Tools & Technologies Used
 
@@ -58,7 +58,7 @@ Tool	Purpose :
  SQLAlchemy	Python-MySQL Connection,
  PyMySQL	Database Connectivity,
  Power BI	Dashboard & Visualization,
- Jupyter Notebook	Development Environment
+ Jupyter Notebook	Development Environment.
 
 # Project Workflow
 
@@ -154,7 +154,7 @@ Dashboard KPIs,
  KPI Cards,
  Drill-down Capability,
  Professional Layout,
- Business-friendly Design
+ Business-friendly Design.
 
 # Project Structure
 
@@ -203,7 +203,7 @@ Data Cleaning,
  Business Intelligence,
  Data Storytelling,
  KPI Design,
- Dashboard Design
+ Dashboard Design.
 
 # ⭐ Project Highlights
 1. End-to-end Data Analytics project
