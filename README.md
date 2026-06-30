@@ -188,8 +188,8 @@ Highlighted high-performing product categories based on revenue.
 
 # Skills Demonstrated
 
-Data Cleaning
-Data Preprocessing
+Data Cleaning, 
+ Data Preprocessing,
 Exploratory Data Analysis (EDA)
 SQL Query Writing
 Database Management (MySQL)
@@ -203,7 +203,7 @@ Dashboard Design
 
 # Project: Customer Shopping Behavior Analysis & Interactive Power BI Dashboard
 
-⭐ Project Highlights
+# ⭐ Project Highlights
 End-to-end Data Analytics project
 Python-based data preprocessing and EDA
 MySQL database integration
