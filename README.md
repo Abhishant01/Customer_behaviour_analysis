@@ -1,4 +1,4 @@
-# Customer_behaviour_analysis
+# Customer Behaviour Analysis
 Customer Shopping Behavior Analysis & Interactive Dashboard
 
 # Project: Customer Shopping Behavior Analysis & Interactive Power BI Dashboard
@@ -155,6 +155,12 @@ Dashboard KPIs,
  Drill-down Capability,
  Professional Layout,
  Business-friendly Design.
+
+# Dashboard Preview
+
+<img width="1381" height="750" alt="customer_behaviour" src="https://github.com/user-attachments/assets/3d9bc582-3af0-435d-84a7-00eea8902dce" />
+
+
 
 # Project Structure
 
